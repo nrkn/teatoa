@@ -108,6 +108,8 @@ of Hala Siwi Road. It is mostly used for meetings and administration.
 
 ### Vaika
 
+![Vaika](img/vaika.jpg)
+
 Vaika is an eroded rocky outcrop ringed by tidal pools and holding large 
 reserves of fresh water in a lagoon at the center. Traditional aquaculture 
 practises have gradually evolved into a modern aquaculture plant, raising a wide 
@@ -115,6 +117,8 @@ variety of both freshwater and marine plants and animals for domestic
 consumption and export.
 
 ### Tūpu
+
+![Tūpu](img/tupu.jpg)
 
 Tūpu is the remains of a sedimentary lake bed in an eroded crater, composed of 
 rich topsoil covering clay. It is covered in terraced farms growing mostly root 
@@ -129,6 +133,8 @@ plants atypical to the climate growing in controlled conditions
 
 ### Kota Pey
 
+![Kota Pey](img/kota-pey.jpg)
+
 Kota Pey is the central island, composed mostly of lava overflow - most of the
 island is taken up by Kota Market Square. One corner of the square is occupied
 by the Kota Pey entertainment district, famous for its bars, restaurants and
@@ -137,13 +143,21 @@ for the game of skill played here, using a mechanical contraption
 
 ### Makāfi
 
+![Makāfi](img/makafi.jpg)
+
 Makāfi was originally a single thin lava flow (now Kuma Rd), however the 
 surrounding waters were very shallow and a land reclamation project was 
 undertaken in the 1960s to make room for light industry.
 
+![Port and Ship Yard](img/shipyard.jpg)
+*Port and Ship Yard*
+
 It is the location of Teātoa's main sea port and ship yard. Administrative 
 buildings for important groups like the Department of Fisheries (more like a 
 guild than a government department) are also located here, on Kuma Road.
+
+![Dept of Fisheries](img/fisheries.jpg)
+*Department of Fisheries*
 
 ## Economy
 
@@ -173,6 +187,8 @@ meeting space and library. Actual classrooms are spread around the island, with
 most classes not requiring special equipment held in peoples' homes or public 
 spaces.
 
+![University](img/university.jpg)
+
 ### Health
 
 The life expectancy at birth for women is 83.1 years, and 80.7 years for men.
@@ -182,6 +198,8 @@ Teātoa has a small, modern hospital located on Kota Pey.
 
 Although a variety of games and sports are played, the most important is the 
 ball game
+
+![Sports Fields](img/sports.jpg)
 
 ## Ball Game
 
