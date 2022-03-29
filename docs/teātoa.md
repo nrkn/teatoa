@@ -1,5 +1,7 @@
 # Teātoa
 
+![Teātoa](img/te%C4%81toa.jpg)
+
 **Area**: 8.2ha
 
 **Population**: 5,140 
@@ -48,16 +50,18 @@ follow traditional beliefs to a greater or lesser degree.
 
 ## Geography
 
+Usually referred to by the inhabitants as a single island, it is actually 
+composed of five smaller islands connected partly by lava flows. There were 
+originally four - most of Makāfi was formerly just below sea level and is 
+largely reclaimed land.
+
 - Halasi
 - Vaika
 - Tūpu
 - Kota Pey
 - Makāfi
 
-Usually referred to by the inhabitants as a single island, it is actually 
-composed of five smaller islands connected partly by lava flows. There were 
-originally four - most of Makāfi was formerly just below sea level and is 
-largely reclaimed land.  
+![Teātoa Map](img/te%C4%81toa-map.png)
 
 Hala Siwi Rd and Teātoto Rd are built along ancient lava flows connecting the
 four original islands together, along with a third outflow (Kota Rd) that joins 
@@ -75,6 +79,8 @@ spaces.
 
 ### Halasi
 
+![Halasi](img/halasi.jpg)
+
 Halasi was once covered in the sandstone and limestone used to build most of 
 Teātoa's structures, however much of it has been quarried out and only small 
 pockets remain, with the exposed bedrock mostly built over. Some of the old 
@@ -83,14 +89,22 @@ water treatment system to the sea. A small desalination and waste water
 reclamation facility was added to the plant in 2015 as insurance against
 drought.  
 
+![Waste Water Plant](img/waste-water.jpg)
+*Waste Water Plant*
+
 Halasi is largely residential. Two of the more unusual streets are Api Lane
 and Tupuk Street, where a series of old quarry and mine shafts below street 
 level were turned into housing, traditionally occupied for short periods by 
 students and young people who have yet to start a family. These areas are 
 notorious for their all night parties.
 
+![Api Lane](img/api-lane.jpg)
+*Houses in Api Lane*
+
 One of the island's few large buildings, the council hall, is located at the end
 of Hala Siwi Road. It is mostly used for meetings and administration.
+
+![Council Hall](img/council.jpg)
 
 ### Vaika
 
