@@ -5,6 +5,8 @@ A fictional Pacific Island created in Townscaper
 - [About Teātoa](teātoa.md)
 - [Construction](construction.md)
 
+![Map of Teātoa](img/te%C4%81toa-map.png)
+
 ## License
 
 MIT License
