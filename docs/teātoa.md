@@ -184,10 +184,11 @@ Literacy on Teātoa is 99%. Education is highly valued, largely informal, and
 ongoing, with almost all adults having undertaken some university level papers. 
 Although the island has a university, its physical campus is mostly used as a 
 meeting space and library. Actual classrooms are spread around the island, with 
-most classes not requiring special equipment held in peoples' homes or public 
-spaces.
+most classes (those not requiring special equipment) held in peoples' homes or 
+public spaces.
 
 ![University](img/university.jpg)
+*Tupuku University*
 
 ### Health
 
