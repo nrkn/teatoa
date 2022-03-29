@@ -1,2 +1,4 @@
-# teatoa
- A fictional Pacific Island created in Townscaper
+# Teātoa
+
+A fictional Pacific Island created in Townscaper
+
