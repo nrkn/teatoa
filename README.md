@@ -1,6 +1,6 @@
 # Teātoa
 
-[A fictional Pacific Island created in Townscaper - view the website]()
+[A fictional Pacific Island created in Townscaper - view the website](https://nrkn.github.io/teatoa)
 
 ![Map of Teātoa](docs/img/te%C4%81toa-map.png)
 
